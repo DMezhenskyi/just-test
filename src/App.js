@@ -21,6 +21,7 @@ function App() {
             }}
             key={index}
           >
+            <p>Just push test</p>
             {name}
           </button>
         ))}
